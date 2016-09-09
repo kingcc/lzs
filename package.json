@@ -1,6 +1,6 @@
 {
   "name": "lzs",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "description": "a personal resume.",
   "main": "bin/lzs.js",
   "keywords": [
