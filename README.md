@@ -1,5 +1,7 @@
 lzs
 ===
+[![npm version](https://badge.fury.io/js/lzs.svg)](https://badge.fury.io/js/lzs)
+
 A simple personal resume.
 
 ###Install
